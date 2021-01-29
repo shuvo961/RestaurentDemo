@@ -1,0 +1,20 @@
+{
+  "name": "restaurent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+  "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuvo961/RestaurentDemo.git"
+  },
+  "author": "shuvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuvo961/RestaurentDemo/issues"
+  },
+  "homepage": "https://github.com/shuvo961/RestaurentDemo#readme"
+}
