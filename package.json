@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-  "dev": "lite-server",
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/shuvo961/RestaurentDemo/issues"
   },
-  "homepage": "https://github.com/shuvo961/RestaurentDemo#readme"
+  "homepage": "https://github.com/shuvo961/RestaurentDemo#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "bootstrap": "^4.6.0",
+    "bootstrap-social": "^5.1.1"
+  }
 }
